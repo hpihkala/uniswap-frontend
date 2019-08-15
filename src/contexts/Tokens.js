@@ -77,6 +77,12 @@ const INITIAL_TOKENS_CONTEXT = {
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14'
     },
+    '0x0cf0ee63788a0849fe5297f3407f701e122cc023': {
+      [NAME]: 'Streamr DATAcoin',
+      [SYMBOL]: 'DATA',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x4f0d6e2179938828cff93da40a8ba1df7519ca8c'
+    },
     '0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A': {
       [NAME]: 'DigixDAO',
       [SYMBOL]: 'DGD',
